@@ -727,3 +727,7 @@ body {
   justify-content: flex-end;
   margin-top: 1.5rem;
 }
+
+@media print {
+  .no-print { display: none; }
+}

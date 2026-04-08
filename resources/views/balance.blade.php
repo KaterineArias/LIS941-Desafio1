@@ -97,6 +97,9 @@
           <canvas id="graficoPastel" class="grafico-pastel" width="300" height="300"></canvas>
         </div>
 
+        <div class="bottom-actions no-print">
+          <a href="/dashboard" class="btn-secondary">← Volver a Inicio</a>
+        </div>
       </div>
     </main>
   </div>

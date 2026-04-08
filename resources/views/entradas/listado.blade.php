@@ -49,6 +49,10 @@
             </tbody>
           </table>
         @endif
+
+        <div class="bottom-actions">
+          <a href="/dashboard" class="btn-secondary">← Volver a Inicio</a>
+        </div>
       </div>
     </main>
   </div>
